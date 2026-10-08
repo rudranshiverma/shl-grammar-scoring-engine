@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition data and generated files (not included in this repository)
+data/
+*.wav
+*.parquet
+*.npz
+*.jsonl
